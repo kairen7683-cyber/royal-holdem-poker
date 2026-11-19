@@ -1,0 +1,33 @@
+{
+  "name": "로열 홀덤 포커 (Royal Hold'em)",
+  "short_name": "로열 홀덤",
+  "description": "오프라인에서도 완벽하게 즐기는 노리밋 텍사스 홀덤 포커 PWA 게임",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#071a12",
+  "theme_color": "#0b2e1f",
+  "lang": "ko",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
